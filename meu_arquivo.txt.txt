@@ -1,0 +1,8 @@
+Realizando uma Alteração e Enviando para o GitHub
+
+Navegue até o diretório do repositório clonado no seu computador.
+Crie um novo arquivo chamado meu_arquivo.txt e adicione algum texto dentro dele.
+Salve o arquivo e, no terminal, adicione o arquivo ao repositório:
+bash
+ 
+git add meu_arquivo.txt
